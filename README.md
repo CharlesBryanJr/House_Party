@@ -1,6 +1,9 @@
-# Music-Controller-Web-App-Tutorial
+# House_Party
 
-The code for Tech With Tim's "Django & React Full Stack Web App Tutorial" series.
+House Party is a collaborative music playing application that seamlessly integrates with the third-party Spotify API. 
+
+Its technical architecture comprises a full stack web application,  leveraging industry-standard technologies such as JavaScript, React, Python, and Django on the front and backend, respectively.
+
 
 ## Setup Instructions
 
